@@ -1,0 +1,2 @@
+This is a file created in *new-feature* branch.  
+The file is also called *new-feature*.
